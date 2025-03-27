@@ -1,4 +1,4 @@
-#EXPLORATORY DATA ANALYSIS
+#EXPLORATORY DATA ANALYSIS ON HOUSING DATA
 
 import numpy as n
 import pandas as pandas
