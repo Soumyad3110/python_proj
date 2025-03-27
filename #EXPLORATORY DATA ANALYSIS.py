@@ -5,6 +5,7 @@ import pandas as pandas
 import matplotlib.pyplot as plt
 import seaborn as sns 
 
+
 # Read the CSV file into a numpy array
 housing_data = n.genfromtxt('c:/Users/KIIT/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/B6622E4EF1A8D811316FE50FD2975FAF/Housing.csv', delimiter=',', skip_header=1)
 
